@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Secure, Contain, Prompt: A Field Guide to Workplace Digital Cryptids"
+message: "If you use or reference this project, please cite it as below."
+type: "generic"
+authors:
+  - name: "Quetzelix-Guild"
+abstract: "A forkable SCP-inspired field guide to agentic AI failure modes, written as workplace digital cryptid taxonomy."
+keywords:
+  - agentic AI
+  - AI governance
+  - AI safety
+  - autonomous agents
+  - failure modes
+  - workplace cryptids
+  - SCP-inspired
+  - containment fiction
+license: "CC-BY-SA-3.0"
+repository-code: "https://github.com/Quetzelix-Guild/secure-contain-prompt"
+date-released: "2026-04-25"
