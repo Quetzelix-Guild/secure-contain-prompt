@@ -19,7 +19,7 @@ This project began as a multi-model exploratory riff on agentic AI failure modes
 The early framework was developed through iterative drafting, critique, and synthesis involving:
 
 - ChatGPT 5.5
-- Claude Opus 5.7
+- Claude Opus 4.7
 - Grok 4.3 (beta)
 - Gemini 3.1 Pro
 
