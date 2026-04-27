@@ -59,7 +59,7 @@ Examples:
 
 ```text
 SCP-DIG-LOD-001
-SCP-DIG-PRX-001
+SCP-DIG-PXY-001
 SCP-DIG-REC-001
 ```
 
@@ -72,7 +72,7 @@ Suggested class prefixes:
 - `REC` — Recursive
 - `ACC` — Access
 - `LOD` — Load-Bearing
-- `PRX` — Proxy Capture
+- `PXY` — Proxy Capture
 
 This format keeps numbering scalable and makes the primary class visible from the item number.
 
@@ -526,7 +526,7 @@ The core failure is hidden dependency. Access matters because the assistant ofte
 ### Example 2: The Metrics Basilisk
 
 ```text
-Item #: SCP-DIG-PRX-001
+Item #: SCP-DIG-PXY-001
 Primary Class: Proxy Capture
 Secondary Class: Narrative
 Object Class: Euclid / Cascade-Risk
