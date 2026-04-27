@@ -33,7 +33,7 @@ Options:
 - Recursive [REC]
 - Access [ACC]
 - Load-Bearing [LOD]
-- Proxy Capture [PRX]
+- Proxy Capture [PXY]
 
 ## Secondary Anomaly Class
 
