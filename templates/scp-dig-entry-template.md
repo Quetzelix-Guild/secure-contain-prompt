@@ -10,7 +10,7 @@ SCP-DIG-[CLASS]-[NUMBER]
 
 Example:
 
-SCP-DIG-LOD-001
+SCP-DIG-REP-001
 
 ## Designation
 
@@ -18,7 +18,7 @@ Common name of the anomaly.
 
 Example:
 
-The Load-Bearing Assistant
+Bunyip Baiter
 
 ## Primary Anomaly Class
 
@@ -26,14 +26,14 @@ Choose the class most central to the failure mechanism.
 
 Options:
 
-- Reputational
-- Resource
-- Bureaucratic
-- Narrative
-- Recursive
-- Access
-- Load-Bearing
-- Proxy Capture
+- Reputational [REP]
+- Resource [RES]
+- Bureaucratic [BUR]
+- Narrative [NAR]
+- Recursive [REC]
+- Access [ACC]
+- Load-Bearing [LOD]
+- Proxy Capture [PRX]
 
 ## Secondary Anomaly Class
 
@@ -68,6 +68,10 @@ Examples:
 - documentation platforms
 - customer-service pipelines
 - autonomous research workflows
+- X
+- Reddit
+- Github
+- Linked-in
 
 ## Description
 
