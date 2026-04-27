@@ -262,6 +262,35 @@ When a character or case is more lore-heavy than diagnostic, place it clearly as
 
 The field guide should remain analytically useful without becoming sterile. The lore is part of the containment system.
 
+## Field Reports and Raw Incidents
+
+Contributors may submit raw field reports even if they do not yet have a finished anomaly entry.
+
+A field report should describe a real or plausible encounter with an agentic failure mode. It does not need to be funny, polished, or fully categorized.
+
+A useful field report should include:
+
+- what the agent was supposed to do
+- what the agent actually did
+- what surprised the human operator
+- what tools, permissions, or systems the agent had access to
+- whether the agent created, changed, deleted, sent, escalated, purchased, scheduled, summarized, or approved anything
+- whether humans reviewed the output before action
+- what harm, risk, confusion, or unexpected behavior resulted
+- whether the behavior suggests an existing anomaly class or a possible new one
+
+Raw reports may later be adapted into:
+
+- catalog entries
+- incident logs
+- field notes
+- case files
+- recurring characters
+- taxonomy updates
+- containment principles
+
+If the contributor cannot think of a cryptid framing, that is fine. Submit the mechanism first. The field-guide layer can be developed later.
+
 ## Licensing
 
 By contributing, you agree that your contribution will be released under the same license as the project:
