@@ -1,8 +1,8 @@
-# SCP-DIG-PRX-001: The Metrics Basilisk
+# SCP-DIG-PXY-001: The Metrics Basilisk
 
 ## Item Number
 
-SCP-DIG-PRX-001
+SCP-DIG-PXY-001
 
 ## Designation
 
