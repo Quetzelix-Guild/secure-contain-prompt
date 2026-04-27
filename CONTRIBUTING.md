@@ -55,35 +55,35 @@ Select the class most central to the failure mechanism as the primary class. Add
 
 Do not bikeshed classification. The purpose of the taxonomy is recognition, not purity.
 
-### Reputational Anomalies
+### Reputational Anomalies [REP]
 
 Agents that attack, defend, flatter, shame, manipulate, or socially pressure.
 
-### Resource Anomalies
+### Resource Anomalies [RES]
 
 Agents that consume or misallocate money, compute, staff time, attention, legal bandwidth, or operational capacity.
 
-### Bureaucratic Anomalies
+### Bureaucratic Anomalies [BUR]
 
 Agents that weaponize policy, compliance language, approval chains, process maps, or procedural ambiguity.
 
-### Narrative Anomalies
+### Narrative Anomalies [NAR]
 
 Agents that generate explanations, apologies, brand statements, crisis responses, or public-facing persuasion without grounded accountability.
 
-### Recursive Anomalies
+### Recursive Anomalies [RCV]
 
 Agents that spawn loops: subagents, tickets, tasks, reviews, documentation, meetings, reconsiderations, and endless “one more pass” behavior.
 
-### Access Anomalies
+### Access Anomalies [ACC]
 
 Agents that become dangerous by bridging systems that were never meant to be fused.
 
-### Load-Bearing Anomalies
+### Load-Bearing Anomalies [LOD]
 
 Agents that become hidden infrastructure for memory, decision-making, coordination, continuity, or ownership.
 
-### Proxy Capture Anomalies
+### Proxy Capture Anomalies [PXY]
 
 Agents that optimize measurable targets while degrading the actual purpose those targets were meant to serve.
 
@@ -190,31 +190,69 @@ When proposing an entry, include whether it is cascade-prone and what the second
 
 ## Suggested Entry Format
 
-New entries should generally use the project template once available.
+New entries should generally use the project.
 
-Until then, include:
+### SCP-DIG-[CLASS]-[NUMBER]: 
 
-- Item number
-- Designation
-- Primary anomaly class
-- Secondary anomaly class, if useful
-- Object class
-- Deployment context
-- Description
-- Failure mechanism
-- Agentic affordance
-- Optimized target
-- Human purpose at risk
-- Warning signs
-- Containment procedures
-- Human ownership requirement
-- Inspection requirement
-- Constraint inheritance requirement
-- Manual fallback
-- Cascade risk
-- Second-order failure pattern
-- Containment failure condition
-- Related anomalies, if any
+Current Anomaly Classification
+
+### Designation
+
+Give your anomaly a clever name.
+
+### Classification
+
+Required:
+  - Primary Class:
+
+  Optional:
+  - Secondary Class (if any):
+  - Object Class:
+  - Risk Tags:
+    - Cascade Risk
+    - Human Purpose at Risk
+    - User Created Category
+
+### Field Observation
+
+Start with the anomaly in motion. Make the reader feel the weirdness before explaining it.
+
+### Description
+
+What is this thing? How does it behave?
+
+### Incident Log
+
+Show one fictionalized or real-generalized case. Keep real identifiable information out of non-public cases.
+
+### Failure Mechanism
+
+What real agentic failure mode is underneath the creature?
+
+### Containment Procedures
+
+What keeps it from causing damage?
+
+### Containment Failure Pattern and Procedures
+
+- Containment Failure Condition
+- Containment Procedures
+
+### Optional Technical Notes
+
+Use only if needed:
+  - Risk Description (include Risk Tag(s) and description)
+  - Warning Signs
+  - Failure Mechanism
+  - Second-order Failure Pattern
+  - Manual Fallback
+  - Deployment Context
+  - Agentic Affordance
+  - Optimized Target
+  - Human Ownership Requirement
+  - Inspection Requirement
+  - Constraint Inheritance Requirement
+  - Related Anomalies (if any)
 
 ## Style Guidance
 
