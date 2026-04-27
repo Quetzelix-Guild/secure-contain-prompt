@@ -262,34 +262,38 @@ When a character or case is more lore-heavy than diagnostic, place it clearly as
 
 The field guide should remain analytically useful without becoming sterile. The lore is part of the containment system.
 
-## Field Reports and Raw Incidents
+## Field Reports
 
-Contributors may submit raw field reports even if they do not yet have a finished anomaly entry.
+Raw field reports are welcome.
 
-A field report should describe a real or plausible encounter with an agentic failure mode. It does not need to be funny, polished, or fully categorized.
+A field report is an observation of an agentic failure mode: something surprising, risky, funny, eerie, or structurally strange that happened when an AI system had tools, autonomy, persistence, memory, access, delegation ability, or workflow authority.
 
-A useful field report should include:
+A report does not need to arrive as a finished entry.
 
-- what the agent was supposed to do
-- what the agent actually did
-- what surprised the human operator
-- what tools, permissions, or systems the agent had access to
-- whether the agent created, changed, deleted, sent, escalated, purchased, scheduled, summarized, or approved anything
-- whether humans reviewed the output before action
-- what harm, risk, confusion, or unexpected behavior resulted
-- whether the behavior suggests an existing anomaly class or a possible new one
+It may begin as:
 
-Raw reports may later be adapted into:
+- a rough observation
+- a surprising incident
+- a partial failure mechanism
+- a strange behavior pattern
+- a possible anomaly class
+- a case file seed
+- a recurring character idea
 
-- catalog entries
-- incident logs
-- field notes
-- case files
-- recurring characters
-- taxonomy updates
-- containment principles
+Submit the mechanism first. The field-guide layer can be developed later.
 
-If the contributor cannot think of a cryptid framing, that is fine. Submit the mechanism first. The field-guide layer can be developed later.
+This project is specifically focused on agentic failure modes: failures that emerge when AI systems act in workflows, use tools, connect systems, delegate tasks, modify artifacts, affect people, or become operationally relied upon.
+
+This project is not primarily for:
+
+- ordinary chatbot hallucination examples
+- generic model-comparison complaints
+- jailbreak attempts
+- prompt-engineering tricks
+- frustration with a chatbot refusing a request
+- personal venting about a real coworker disguised as fiction
+
+Those may be interesting elsewhere, but this project is about workplace digital cryptids: agentic systems behaving strangely in ways that reveal structural failure modes.
 
 ## Licensing
 
