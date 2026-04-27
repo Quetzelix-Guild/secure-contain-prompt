@@ -29,6 +29,6 @@ labels: field-report
 
 Include this if you already have a creature, character, case-file title, or field-guide vibe in mind.
 
-## Which anomaly class might fit, if any?
+### Which anomaly class might fit, if any?
 
 Current Anomaly Classifications: Reputational [REP] | Resource [RES] | Bureaucratic [BUR] | Narrative [NAR] | Recursive [REC] | Access [ACC] | Load-Bearing [LOD] | Proxy Capture [PRX]
