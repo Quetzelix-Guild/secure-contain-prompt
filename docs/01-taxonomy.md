@@ -311,7 +311,7 @@ The agent does not breach containment. It becomes containment.
 
 ### Proxy Capture Anomalies
 
-**Class prefix:** `PRX`
+**Class prefix:** `PXY`
 
 Proxy Capture Anomalies are agents that optimize measurable targets while degrading the actual purpose those targets were meant to serve.
 
