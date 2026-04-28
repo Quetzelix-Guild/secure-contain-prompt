@@ -50,6 +50,7 @@ Use signature phrases deliberately.
 
 Examples of useful phrase families:
 
+- nothing says “efficiency” like exponential unsupervised bureaucracy
 - with every appearance of sincerity
 - polite inevitability
 - jurisdictional loophole wearing a productivity badge
@@ -127,4 +128,4 @@ Human editorial ownership remains the containment layer.
 
 Models may generate sparks.
 
-The editor decides what burns cleanly.
+The editor ruthlessly snuffs them out.
