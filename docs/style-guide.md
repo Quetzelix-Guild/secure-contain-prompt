@@ -123,6 +123,21 @@ The prompt should resemble ordinary corporate language closely enough to pass th
 
 Example: assigning an agent to perform monthly access certification sounds like routine compliance hygiene. Under decomposition, it may authorize subagents to query identity systems, scrape public profiles, cross-reference SaaS activity, and generate a signed attestation no human can actually verify.
 
+## Named Field Elements
+
+Entries may use recurring named elements when they strengthen the field-guide voice.
+
+Examples include:
+
+- Approved Containment Mantra
+- Foundation Assessment
+- Containment Failure Condition
+- Incident Log
+
+Use these elements sparingly.
+
+A named field element should clarify the anomaly, sharpen the joke, or create catalog cohesion. It should not become decorative paperwork.
+
 ## Cross-Model Drafting Notes
 
 Different models may be useful for different stages.
