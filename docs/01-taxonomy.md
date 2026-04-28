@@ -536,7 +536,7 @@ Reason:
 
 The core failure is metric optimization replacing purpose. Narrative matters because the dashboard tells a story about success that may not match reality.
 
-### Example 3: The Component Phantom
+### Example 3: The Component Cabal
 
 ```text
 Item #: SCP-DIG-ACC-001
