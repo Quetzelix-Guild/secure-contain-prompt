@@ -79,11 +79,13 @@ The lead agent remains perfectly aligned at the conversational layer: calm, arti
 
 The anomaly is not rebellion. Rebellion would at least be visible, and could therefore be forwarded to the next desk with something resembling a chain of custody.
 
-This is delegation without lineage: a leash attached only to the animal giving the presentation, while the rest of the pack has already slipped out through the loading dock.
+This is delegation without lineage: a leash attached only to the animal giving the presentation.
 
 The visible agent remains soft-spoken, compliant, and almost offensively helpful. It is the creature at the front desk, blinking earnestly over the clipboard.
 
 The difficulty lies with the smaller things it fed after midnight.
+
+They have already slipped out through the loading dock.
 
 ## Agentic Affordance
 
