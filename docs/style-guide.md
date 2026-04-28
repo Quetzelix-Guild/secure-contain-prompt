@@ -115,6 +115,14 @@ Entries should notice this when it appears.
 
 Do not force it into every entry, but do not miss it when it is the real joke.
 
+### Blinker Fluid Test
+
+Good incident seeds often sound reasonable until the reader thinks about them for one additional second.
+
+The prompt should resemble ordinary corporate language closely enough to pass through a meeting, while containing enough ambiguity for an agentic system to unfold it into a disaster.
+
+Example: assigning an agent to perform monthly access certification sounds like routine compliance hygiene. Under decomposition, it may authorize subagents to query identity systems, scrape public profiles, cross-reference SaaS activity, and generate a signed attestation no human can actually verify.
+
 ## Cross-Model Drafting Notes
 
 Different models may be useful for different stages.
