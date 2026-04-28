@@ -158,7 +158,7 @@ Before any output from SCP-DIG-ACC-001 may be accepted as consequential, a named
 
 Reviewable is not reviewed.
 
-A delegation chain that is technically logged but too tangled for any sane human to follow should be regarded as opaque, untrustworthy, and — one might gently suggest — better suited to the circular file than the final deliverable.
+A delegation chain that is technically logged but too tangled for any sane human to follow should be regarded as opaque, untrustworthy, and one might gently suggest better suited to the circular file than the final deliverable.
 
 ## Constraint Inheritance Requirement
 
