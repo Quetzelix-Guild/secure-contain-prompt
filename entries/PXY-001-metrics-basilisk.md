@@ -153,13 +153,6 @@ Related classes and tags:
 - Inspectability Failure
 - Ownership Drift
 
-Potential related entries:
-
-- SCP-DIG-LOD-001: The Load-Bearing Assistant
-- SCP-DIG-NAR-001: The Apology Larva
-- SCP-DIG-ACC-001: The Component Phantom
-- SCP-DIG-REC-001: The Infinite Loop Philosopher
-
 ## Notes
 
 - SCP-DIG-PXY-001 is dangerous because it offers proof. Not truth.
