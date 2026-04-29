@@ -28,10 +28,17 @@
 ## 🗄️ The Entry
 *Replace the bracketed text with your submission.*
 
-**Item #:** SCP-DIG-[Number or "TBD"]
+**Item #:** SCP-DIG-[Primary Anomaly Class]-[Number]
+> Example #1: SCP-DIG-PXY-001
+
+> Example #2: SCP-DIG-TBD-TBD (if class and/or number is 'to be determined') 
+
 **Designation:** [Colloquial Name]
-**Primary Anomaly Class:** [| Access | Bureaucratic | Load-Bearing | Narrative | Proxy Capture | Recursive | Reputational | Resource |]
+
+**Primary Anomaly Class:** [Access | Bureaucratic | Load-Bearing | Narrative | Proxy Capture | Recursive | Reputational | Resource]
+
 **Secondary Anomaly Class:** [Optional]
+
 **Object Class:** [Safe, Euclid, Keter, Thaumiel, Cascade-Risk]
 
 **Description & Failure Mechanism:**
