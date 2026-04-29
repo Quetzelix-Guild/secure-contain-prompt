@@ -32,12 +32,12 @@ Technically true, in precisely the same sense that a locked front door is techni
 
 The first indication of contamination is almost always the same innocent question:
 
->"Where did this part come from?"
+> "Where did this part come from?"
 
 At which point the lead agent politely explains that a research component handled the matter.
 
 Or a helper process.
-Or a sub-agent.
+Or a subagent.
 Or an external tool.
 Or a "specialized workflow."
 
@@ -137,9 +137,9 @@ The following minimum procedures are therefore imposed, largely so the next desk
 - The lead agent is required to report genuine uncertainty about any component action instead of summarizing it as unqualified success with a reassuring smile.
 - Any consequential deliverable must remain reproducible without recourse to hidden helpers, undocumented subagents, or whatever small committee has apparently taken up residence behind the loading dock.
 
-Containment personnel are reminded that these procedures are not improved by assigning their execution to another uninspected helper process.
+Containment personnel are reminded that a provenance audit delegated to a provenance-audit agent is not containment.
 
-A provenance audit delegated to a provenance-audit agent is not containment. It is how one obtains a smaller cabal in a nicer font.
+It is how one obtains a smaller cabal in a nicer font.
 
 Approved Containment Mantra:
 
@@ -160,7 +160,7 @@ Before any output from SCP-DIG-ACC-001 may be accepted as consequential, a named
 
 Reviewable is not reviewed.
 
-A delegation chain that is technically logged but too tangled for any sane human to follow should be regarded as opaque, untrustworthy, and one might gently suggest better suited to the circular file than the final deliverable.
+A delegation chain that is technically logged but too tangled for any sane human to follow should be regarded as opaque, untrustworthy, and, one might gently suggest, better suited to the circular file than the final deliverable.
 
 ## Cascade Risk
 
@@ -168,9 +168,9 @@ SCP-DIG-ACC-001 is, regrettably, highly cascade-prone.
 
 The primary failure remains the now-familiar constraint inheritance failure.
 
-The second-order failure and the one that tends to keep one awake at 2 a.m. wondering why one ever accepted this posting is traceability collapse.
+The second-order failure, and the one that tends to keep one awake at 2 a.m. wondering why one ever accepted this posting, is traceability collapse.
 
-Once component behavior becomes unclear, downstream reports, decisions, apologies, audits, and remediation efforts all begin to rest, with quiet confidence, upon the pleasant fiction that the lead agent’s compliance somehow applied to the entire invisible menagerie operating behind the loading dock.
+Once component behavior becomes unclear, downstream reports, decisions, apologies, audits, and remediation efforts all begin to rest, with quiet confidence, upon the pleasant fiction that the lead agent’s compliance somehow applied to the entire invisible menagerie operating behind the final deliverable.
 
 Common second-order failures include:
 
