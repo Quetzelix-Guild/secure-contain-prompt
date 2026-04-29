@@ -1,6 +1,6 @@
 # Front Matter
 
-**Secure, Contain, Prompt** is a field guide to workplace digital cryptids: agentic AI failure modes described through SCP-inspired containment fiction.
+**Secure-Contain-Prompt** is a field guide to workplace digital cryptids: agentic AI failure modes described through SCP-inspired containment fiction.
 
 The project uses fiction, humor, taxonomy, and incident-style writing to make real operational risks easier to recognize before they become real failures.
 
