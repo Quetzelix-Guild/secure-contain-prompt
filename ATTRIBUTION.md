@@ -2,7 +2,7 @@
 
 ## Project
 
-**Secure, Contain, Prompt: A Field Guide to Workplace Digital Cryptids**
+**Secure-Contain-Prompt: A Field Guide to Workplace Digital Cryptids**
 
 A forkable, SCP-inspired field guide to agentic AI failure modes, written as workplace digital cryptid taxonomy.
 
@@ -31,7 +31,7 @@ These systems contributed language, critique, framing, humor, and structural sug
 
 Key concepts developed through this process include:
 
-- “Secure, Contain, Prompt”
+- “Secure-Contain-Prompt”
 - Workplace digital cryptids
 - The editorial law: “The joke must be diagnostic.”
 - Agentic failures as action-pattern errors rather than merely factual errors
