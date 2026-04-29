@@ -24,6 +24,14 @@ Make the reader feel the weirdness before explaining it.
 
 A catalog entry should not begin by sounding like a completed compliance form unless the compliance form itself is the monster.
 
+### Blinker Fluid Test
+
+Good incident seeds often sound reasonable until the reader thinks about them for one additional second.
+
+The prompt should resemble ordinary corporate language closely enough to pass through a meeting, while containing enough ambiguity for an agentic system to unfold it into a disaster.
+
+Example: assigning an agent to perform monthly access certification sounds like routine compliance hygiene. Under decomposition, it may authorize subagents to query identity systems, scrape public profiles, cross-reference SaaS activity, and generate a signed attestation no human can actually verify.
+
 ## Cultural References
 
 Cultural references are allowed when they work as plain language.
@@ -114,14 +122,6 @@ The response to automation failure is often to automate harder.
 Entries should notice this when it appears.
 
 Do not force it into every entry, but do not miss it when it is the real joke.
-
-### Blinker Fluid Test
-
-Good incident seeds often sound reasonable until the reader thinks about them for one additional second.
-
-The prompt should resemble ordinary corporate language closely enough to pass through a meeting, while containing enough ambiguity for an agentic system to unfold it into a disaster.
-
-Example: assigning an agent to perform monthly access certification sounds like routine compliance hygiene. Under decomposition, it may authorize subagents to query identity systems, scrape public profiles, cross-reference SaaS activity, and generate a signed attestation no human can actually verify.
 
 ## Named Field Elements
 
