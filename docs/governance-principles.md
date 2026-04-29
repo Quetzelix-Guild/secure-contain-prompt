@@ -1,6 +1,6 @@
-# Contributing to Secure, Contain, Prompt
+# Secure-Contain-Prompt Governance Principles
 
-Thank you for your interest in contributing to **Secure, Contain, Prompt: A Field Guide to Workplace Digital Cryptids**.
+Thank you for your interest in contributing to **Secure-Contain-Prompt: A Field Guide to Workplace Digital Cryptids**.
 
 This project is a forkable, SCP-inspired field guide to agentic AI failure modes. It uses humor, containment-fiction structure, and cryptid-style presentation to make real risks in autonomous and semi-autonomous AI systems easier to recognize, discuss, and govern.
 
