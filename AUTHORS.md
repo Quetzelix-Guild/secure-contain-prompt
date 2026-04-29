@@ -6,7 +6,7 @@
 
 Project steward, original concept holder, editor, synthesizer, and maintainer for:
 
-> Secure, Contain, Prompt: A Field Guide to Workplace Digital Cryptids
+> Secure-Contain-Prompt: A Field Guide to Workplace Digital Cryptids
 
 ## Role of AI Systems
 
