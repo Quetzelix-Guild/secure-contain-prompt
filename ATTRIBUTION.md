@@ -18,10 +18,10 @@ This project began as a multi-model exploratory riff on agentic AI failure modes
 
 The early framework was developed through iterative drafting, critique, and synthesis involving:
 
-- ChatGPT 5.5
-- Claude Opus 4.7
-- Grok 4.3 (beta)
-- Gemini 3.1 Pro
+- ChatGPT 5.5 (OpenAI)
+- Claude Opus 4.7 (Anthropic)
+- Grok 4.3-β (xAI)
+- Gemini 3.1 Pro (Google)
 
 Model names reflect the systems identified during the initial April 2026 drafting process and are included for provenance, not endorsement.
 
