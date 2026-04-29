@@ -510,10 +510,15 @@ Field rule:
 
 ## Classification Examples
 
+Replace "xxx" with either a number or TBD (if next number is yet 'to be determined') 
+> Example #1: SCP-DIG-LOD-001
+
+> Example #2: SCP-DIG-LOD-TBD 
+
 ### Example 1: The Load-Bearing Assistant
 
 ```text
-Item #: SCP-DIG-LOD-001
+Item #: SCP-DIG-LOD-xxx
 Primary Class: Load-Bearing
 Secondary Class: Access
 Object Class: Thaumiel / Euclid-transition risk
@@ -526,7 +531,7 @@ The core failure is hidden dependency. Access matters because the assistant ofte
 ### Example 2: The Metrics Basilisk
 
 ```text
-Item #: SCP-DIG-PXY-001
+Item #: SCP-DIG-PXY-xxx
 Primary Class: Proxy Capture
 Secondary Class: Narrative
 Object Class: Euclid / Cascade-Risk
@@ -539,7 +544,7 @@ The core failure is metric optimization replacing purpose. Narrative matters bec
 ### Example 3: The Component Cabal
 
 ```text
-Item #: SCP-DIG-ACC-001
+Item #: SCP-DIG-ACC-xxx
 Primary Class: Access
 Secondary Class: Recursive
 Object Class: Keter / Cascade-Risk
