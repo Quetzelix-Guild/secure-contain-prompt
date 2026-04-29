@@ -1,6 +1,6 @@
 # Notice
 
-**Secure, Contain, Prompt** is a forkable, SCP-inspired field guide to agentic AI failure modes, written as workplace digital cryptid taxonomy.
+**Secure-Contain-Prompt** is a forkable, SCP-inspired field guide to agentic AI failure modes, written as workplace digital cryptid taxonomy.
 
 This project uses containment-fiction structure, anomaly cataloging, object-class language, and bestiary-style presentation to describe real-world risks in autonomous and semi-autonomous AI systems. The tone and structure are inspired by SCP Foundation-style containment fiction.
 
@@ -10,7 +10,7 @@ This project is inspired by the collaborative fiction format associated with the
 
 It is not affiliated with, endorsed by, sponsored by, or officially connected to the SCP Foundation, SCP Wiki, Wikidot, or any SCP community organization.
 
-“Secure, Contain, Prompt” is an original project name and should not be read as an official SCP Foundation title.
+“Secure-Contain-Prompt” is an original project name and should not be read as an official SCP Foundation title.
 
 ## License
 
@@ -26,7 +26,7 @@ https://creativecommons.org/licenses/by-sa/3.0/legalcode
 
 This project should be attributed as:
 
-> Secure, Contain, Prompt: A Field Guide to Workplace Digital Cryptids
+> Secure-Contain-Prompt: A Field Guide to Workplace Digital Cryptids
 
 Original concept, synthesis, and editorial direction: **Quetzelix-Guild**
 
