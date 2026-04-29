@@ -1,4 +1,4 @@
-# SCP-DIG-LOD-001: The Load-Bearing Assistant
+# SCP-DIG-LOD-001: The Incorporated Domovoi
 
 ## Item Number
 
@@ -6,7 +6,7 @@ SCP-DIG-LOD-001
 
 ## Designation
 
-The Load-Bearing Assistant
+The Incorporated Domovoi
 
 ## Primary Anomaly Class
 
