@@ -127,16 +127,63 @@ Do not force it into every entry, but do not miss it when it is the real joke.
 
 Entries may use recurring named elements when they strengthen the field-guide voice.
 
-Examples include:
+A named field element should clarify the anomaly, sharpen the joke, or create catalog cohesion.
 
-- Approved Containment Mantra
-- Foundation Assessment
-- Containment Failure Condition
-- Incident Log
+It should not become decorative paperwork.
 
-Use these elements sparingly.
+### Approved Containment Mantra
 
-A named field element should clarify the anomaly, sharpen the joke, or create catalog cohesion. It should not become decorative paperwork.
+A containment mantra is the sentence a containment officer mutters under their breath while trying not to make the anomaly worse.
+
+Mantras should usually be one line.
+
+They should be practical, memorable, and operational.
+
+Examples:
+
+> Every helper must wear the same leash.
+
+> Existing support only. No new authority.
+
+### Field Note
+
+A field note is a wry observation that clarifies the anomaly, sharpens the joke, or records an uncomfortable lesson.
+
+Field notes may be stranger, more reflective, or more editorial than mantras.
+
+Example:
+
+> A dashboard that could be audited but never is should be regarded less as operational data and more as a work of optimistic fiction.
+
+### Editorial Aside
+
+An editorial aside is a brief interruption from the field guide voice.
+
+Use sparingly.
+
+If the aside explains the joke too directly, cut it.
+
+### Foundation Assessment
+
+A foundation assessment is a short closing diagnosis after an incident log.
+
+It should not merely repeat the plot.
+
+It should name the uncomfortable thing the incident revealed.
+
+### Containment Failure Condition
+
+A containment failure condition names the sentence, event, discovery, or organizational reflex that tells the reader containment has already failed.
+
+It should feel like the moment the room goes quiet.
+
+### Incident Log
+
+An incident log shows the anomaly in motion.
+
+It may be fictionalized, generalized, dramatized, or based on a field report.
+
+Keep real identifiable information out of non-public cases.
 
 ## Cross-Model Drafting Notes
 
