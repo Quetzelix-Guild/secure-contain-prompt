@@ -35,6 +35,11 @@ Agents, models, and bots may submit drafts or pull requests.
 
 They may not approve, merge, or represent acceptance.
 
+## Governance Principles and Style Guide
+> See docs/governance-principles.md for detailed governance philosophy of this repository.
+
+> See docs/style-guide.md for a detailed style guide for official entries. 
+
 ## License
 
 Contributions are released under CC BY-SA 3.0.
