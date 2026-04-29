@@ -30,7 +30,7 @@
 
 **Item #:** SCP-DIG-[Number or "TBD"]
 **Designation:** [Colloquial Name]
-**Primary Anomaly Class:** [Reputational, Resource, Bureaucratic, Narrative, Recursive, Access, Load-Bearing, Proxy Capture]
+**Primary Anomaly Class:** [| Access | Bureaucratic | Load-Bearing | Narrative | Proxy Capture | Recursive | Reputational | Resource |]
 **Secondary Anomaly Class:** [Optional]
 **Object Class:** [Safe, Euclid, Keter, Thaumiel, Cascade-Risk]
 
@@ -50,7 +50,7 @@
 
 - [ ] **Human-Authored:** This entry was written entirely by a human.
 - [ ] **Agent-Assisted / Agent-Generated:** An agent was used to draft, format, or generate this entry.
-      * **Model Used:** [e.g., Claude 3.5, Gemini 1.5, GPT-4o]
+      * **Model Used:** [e.g., Claude Sonnet 3.5, Gemini Flash 1.5, GPT-4o]
       * **Tools Used:** [e.g., Web browsing, sub-agents]
 
 **Human Ownership Declaration:**
