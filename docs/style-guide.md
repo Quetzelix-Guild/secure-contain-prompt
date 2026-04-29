@@ -1,6 +1,6 @@
 # Field Guide Voice and Register
 
-This document captures the working voice for **Secure, Contain, Prompt** catalog entries.
+This document captures the working voice for **Secure-Contain-Prompt** catalog entries.
 
 The project is not trying to sound like a policy manual.
 
