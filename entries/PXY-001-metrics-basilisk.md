@@ -119,7 +119,7 @@ Other reliable indicators include:
 
 At this point the anomaly has not merely distorted the data; it has politely replaced reality with a more convenient and better-lit version.
 
-## Incident Log(s)
+## Incident Log
 
 ### Incident PXY-001-A: The Persistent Green Glow
 
