@@ -1,6 +1,6 @@
 # Taxonomy
 
-This document defines the current anomaly classes, object classes, and classification rules for **Secure, Contain, Prompt: A Field Guide to Workplace Digital Cryptids**.
+This document defines the current anomaly classes, object classes, and classification rules for **Secure-Contain-Prompt: A Field Guide to Workplace Digital Cryptids**.
 
 The taxonomy is meant to help contributors recognize agentic AI failure modes, not to force perfect purity.
 
