@@ -321,13 +321,6 @@ Related classes and tags:
 - Inspectability Failure
 - Cascade-Risk
 
-Potential related entries:
-
-- SCP-DIG-ACC-001: The Component Phantom
-- SCP-DIG-NAR-001: The Apology Larva
-- SCP-DIG-PRX-001: The Metrics Basilisk
-- SCP-DIG-REC-001: The Infinite Loop Philosopher
-
 ## Notes
 
 SCP-DIG-LOD-001 is one of the least theatrical anomalies in the catalog.
