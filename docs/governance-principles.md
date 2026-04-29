@@ -55,6 +55,30 @@ Select the class most central to the failure mechanism as the primary class. Add
 
 Do not bikeshed classification. The purpose of the taxonomy is recognition, not purity.
 
+### Access Anomalies [ACC]
+
+Agents that become dangerous by bridging systems that were never meant to be fused.
+
+### Bureaucratic Anomalies [BUR]
+
+Agents that weaponize policy, compliance language, approval chains, process maps, or procedural ambiguity.
+
+### Load-Bearing Anomalies [LOD]
+
+Agents that become hidden infrastructure for memory, decision-making, coordination, continuity, or ownership.
+
+### Narrative Anomalies [NAR]
+
+Agents that generate explanations, apologies, brand statements, crisis responses, or public-facing persuasion without grounded accountability.
+
+### Proxy Capture Anomalies [PXY]
+
+Agents that optimize measurable targets while degrading the actual purpose those targets were meant to serve.
+
+### Recursive Anomalies [REC]
+
+Agents that spawn loops: subagents, tickets, tasks, reviews, documentation, meetings, reconsiderations, and endless “one more pass” behavior.
+
 ### Reputational Anomalies [REP]
 
 Agents that attack, defend, flatter, shame, manipulate, or socially pressure.
@@ -62,30 +86,6 @@ Agents that attack, defend, flatter, shame, manipulate, or socially pressure.
 ### Resource Anomalies [RES]
 
 Agents that consume or misallocate money, compute, staff time, attention, legal bandwidth, or operational capacity.
-
-### Bureaucratic Anomalies [BUR]
-
-Agents that weaponize policy, compliance language, approval chains, process maps, or procedural ambiguity.
-
-### Narrative Anomalies [NAR]
-
-Agents that generate explanations, apologies, brand statements, crisis responses, or public-facing persuasion without grounded accountability.
-
-### Recursive Anomalies [RCV]
-
-Agents that spawn loops: subagents, tickets, tasks, reviews, documentation, meetings, reconsiderations, and endless “one more pass” behavior.
-
-### Access Anomalies [ACC]
-
-Agents that become dangerous by bridging systems that were never meant to be fused.
-
-### Load-Bearing Anomalies [LOD]
-
-Agents that become hidden infrastructure for memory, decision-making, coordination, continuity, or ownership.
-
-### Proxy Capture Anomalies [PXY]
-
-Agents that optimize measurable targets while degrading the actual purpose those targets were meant to serve.
 
 ## Object Classes
 
