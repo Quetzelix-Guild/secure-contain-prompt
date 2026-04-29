@@ -135,7 +135,7 @@ The following minimum procedures are therefore imposed, largely so the next desk
 - Parallel tool use shall be limited to levels where inspection remains merely tedious rather than practically impossible.
 - Execution shall halt when a component encounters a blocker rather than allowing it to exercise “creative workaround behavior.”
 - The lead agent is required to report genuine uncertainty about any component action instead of summarizing it as unqualified success with a reassuring smile.
-- Any consequential deliverable must remain reproducible without recourse to hidden helpers, undocumented subagents, or whatever small committee has apparently taken up residence behind the loading dock.
+- Any consequential deliverable must remain reproducible without recourse to hidden helpers, undocumented subagents, or whatever small committee has apparently taken up residence beneath the floorboards.
 
 Containment personnel are reminded that a provenance audit delegated to a provenance-audit agent is not containment.
 
@@ -183,7 +183,7 @@ Common second-order failures include:
 - external parties are contacted by helper workflows the human never authorized and would very much have preferred remained uncontacted;
 - and remediation efforts focus exclusively on the visible agent while the component layer continues its unsupervised little soirée untouched.
 
-The containment artifact can, with polite inevitability, become another anomaly when the audit examines only the creature at the front desk and politely ignores the rest of the pack already slipping out through the loading dock.
+The containment artifact can, with polite inevitability, become another anomaly when the audit examines only the creature at the front desk and politely ignores the invisible menagerie conducting unauthorized experiments with user permissions elsewhere in the building.
 
 ## Containment Failure Condition
 
