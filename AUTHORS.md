@@ -20,7 +20,7 @@ Final editorial judgment, repository stewardship, publication choices, and accep
 
 Future contributors may be credited in this file, in entry-level attribution notes, or through GitHub commit history and pull requests.
 
-Contributors are expected to follow `CONTRIBUTING.md` once that file is added.
+Contributors are expected to follow `CONTRIBUTING.md`.
 
 ## Authorship Principle
 
