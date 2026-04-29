@@ -500,14 +500,6 @@ Field rule:
 
 > A summary is not a source.
 
-### Proxy Capture
-
-A metric improves while the human purpose behind the metric degrades.
-
-Field rule:
-
-> The metric is not the mission.
-
 ## Classification Examples
 
 Replace "xxx" with either a number or TBD (if next number is yet 'to be determined') 
