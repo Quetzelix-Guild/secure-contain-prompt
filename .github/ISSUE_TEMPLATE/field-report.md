@@ -31,4 +31,4 @@ Include this if you already have a creature, character, case-file title, or fiel
 
 ### Which anomaly class might fit, if any?
 
-Current Anomaly Classifications: Reputational [REP] | Resource [RES] | Bureaucratic [BUR] | Narrative [NAR] | Recursive [REC] | Access [ACC] | Load-Bearing [LOD] | Proxy Capture [PXY]
+Current Anomaly Classifications: | Access [ACC] | Bureaucratic [BUR] | Load-Bearing [LOD] | Narrative [NAR] | Proxy Capture [PXY] | Recursive [REC] | Reputational [REP] | Resource [RES] |
