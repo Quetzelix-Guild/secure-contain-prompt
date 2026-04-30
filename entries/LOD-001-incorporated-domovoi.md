@@ -113,7 +113,7 @@ A load-bearing anomaly cannot always be unplugged without the building noticing.
 The following minimum procedures are imposed because the organization has already proven it cannot be trusted with convenience:
 
 - Freeze all further expansion of the Domovoi’s remit until existing dependencies are mapped. No more quiet promotions.
-- If one can be found, assign a named, breathing human owner to every workflow the Domovoi currently supports. Get a human back into the loop.
+- If one can be found, assign a named, breathing human owner to every workflow the Domovoi currently supports. Restore named human ownership; the role appears to have been vacant for some time.
 - Identify which processes would break, stall, or become folklore if the Domovoi disappeared. The list will be longer than anyone wants to admit.
 - Preserve original source records, if any still exist, outside the Domovoi’s memory layer. The assistant is helpful, not the archive.
 - Require human-readable decision logs that do not begin with “as previously summarized.” Memory is not record.
