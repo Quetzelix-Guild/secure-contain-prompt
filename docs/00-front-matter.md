@@ -110,6 +110,32 @@ If the metric improves while the real-world purpose degrades, the agent has not 
 
 It has captured the proxy.
 
+### 11. Recitation is not containment.
+
+Instructions, prompts, policies, and prohibitions are Dead-Letter Constraints unless bound to the agent's execution environment.
+
+An agent may flawlessly recite a safety rule immediately after violating it.
+
+Semantic access to a rule does not equal structural compliance.
+
+Do not use prompt text to guard load-bearing infrastructure.
+
+### 12. The prose channel cannot carry every boundary.
+
+Task intent, implementation guidance, permissions, prohibitions, escalation criteria, and containment cannot all safely travel through the same natural-language channel.
+
+If the environment enforces only capability, the task instruction has tools behind it and the prohibition has vibes behind it.
+
+A prohibition without a corresponding architectural barrier is not containment.
+
+### 13. Public incidents are diagnostic material, not settled canon.
+
+SCP-DIG entries may be inspired by publicly reported incidents, but they are not forensic reconstructions unless explicitly labeled as such.
+
+When an entry uses public incidents, treat public reporting as diagnostic material and use source-status notes where practical.
+
+If no source note is present, assume the case is fictional, hypothetical, composite, or internally generated for taxonomy purposes.
+
 ## Fiction as Training Ground
 
 This project uses fiction as a way to practice recognition.
