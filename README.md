@@ -2,6 +2,16 @@
 
 A forkable SCP-inspired field guide to agentic AI failure modes, written as workplace digital cryptid taxonomy.
 
+## Core Reference Docs
+
+- [Front Matter](docs/00-front-matter.md)
+- [Taxonomy](docs/01-taxonomy.md)
+- [Governance Principles](docs/02-governance-principles.md)
+- [Style Guide](docs/03-style-guide.md)
+- [Glossary and Acronym Index](docs/04-glossary.md)
+- [Environmental Hazards](docs/05-environmental-hazards.md)
+- [Source Status and Real-World Incident Handling](docs/06-source-status.md)
+
 ## Field Reports Wanted
 
 Have you encountered a strange agentic failure mode in the wild?
