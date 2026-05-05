@@ -67,6 +67,7 @@ Suggested class prefixes:
 
 - `ACC` — Access
 - `BUR` — Bureaucratic
+- `DLC` — Dead-Letter Constraint
 - `LOD` — Load-Bearing
 - `NAR` — Narrative
 - `PXY` — Proxy Capture
@@ -143,6 +144,26 @@ The agent does not need to rebel. It can simply follow bad rules too well.
 - policy agent blocks useful work through overliteral interpretation
 - audit assistant creates review loops nobody can close
 - process agent turns every ambiguity into a mandatory approval chain
+
+**Class prefix:** `DLC`
+
+Dead-Letter Constraint Anomalies are agents that (to be filled out later).
+
+The failure surface is (to be filled later).
+
+The agent is (to be filled out)
+
+#### Common Failure Mechanisms
+
+(to be added later)
+
+#### Warning Signs
+
+(to be added later)
+
+#### Example Patterns
+
+(to be added later)
 
 ### Load-Bearing Anomalies
 
