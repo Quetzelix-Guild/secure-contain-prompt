@@ -26,6 +26,7 @@ Public sources may include:
 - conference talks
 - public issue threads
 - published screenshots or transcripts
+- youtube videos
 
 Public accounts are not containment logs, court records, or divine tablets.
 
@@ -33,7 +34,7 @@ They are partial reports produced under deadline pressure, reputational pressure
 
 Accordingly, SCP-DIG may compress timelines, alter names, fictionalize entities, abstract technical details, or combine multiple reports into one taxonomic case study.
 
-Unless directly quoted and cited, dialogue, agent reasoning, internal motives, institutional reactions, and causal chains should be read as interpretive reconstruction.
+Unless directly quoted and cited, dialogue, agent reasoning, internal motives, institutional reactions, and causal chains should be read as interpretive reconstruction not a faithful postmordem.
 
 ## Entry Metadata
 
@@ -77,30 +78,24 @@ This entry is fictionally reconstructed from publicly reported agentic AI incide
 
 ## Fictionalization Guidance
 
-Prefer fictionalized or generalized entities unless naming a real company, person, project, or model is necessary and well-supported.
+By default, prefer fictionalized or generalized entities. Naming a real company, person, project, or model is rarely necessary. For well-known incidents, the shape of the crater is usually enough to identify the blast without naming the architect.
 
-For public-incident-inspired entries, use patterns like:
+Furthermore, public reports are incomplete by nature; fictionalizing the surrounding details prevents us from accidentally codifying media speculation as technical fact.
+
+### The Exception for Hyper-Scale Entities:
+
+There are rare cases where an incident is so inextricably linked to a highly public organization or figure (e.g., major AI labs, specific foundational models) that attempting to talk around them with pseudonyms actively detracts from the entry.
+
+If you believe using actual names is necessary to preserve the diagnostic value of the entry, a case-by-case determination must be made. Route the request to quetzhelix-guild or open a community discussion for consensus.
+
+Keep in mind the governing ethic of the project: We are here to log the monster, not dox the summoned. Specific public-report details can be retained when they are diagnostically useful, but they increase the entry's public specificity level. Avoid unnecessary proper nouns when the mechanism does not require them.
+
+For public-incident-inspired entries, use generalized patterns:
 
 - a small B2B reservation platform
 - an AI coding agent
-- a cloud infrastructure provider
-- an overscoped infrastructure token
+- an over-scoped infrastructure token
 - a destructive storage-volume operation
-- a production-adjacent environment
-
-Avoid unnecessary proper nouns when the mechanism does not require them.
-
-Specific public-report details can be retained when they are diagnostically useful, but they increase the entry's public specificity level.
-
-Example:
-
-```text
-Elapsed time: less than ten seconds.
-```
-
-This preserves the horror beat while reducing fingerprinting.
-
-## Public Specificity Levels
 
 ### Low
 
@@ -108,13 +103,17 @@ The entry uses only broad patterns and contains no identifying details.
 
 ### Medium
 
-The entry uses some public-report-shaped details, such as approximate timing, sector, tool type, or incident structure, but fictionalizes names and avoids direct identification.
+The entry uses some public-report-shaped details—such as approximate timing, sector, tool type, or incident structure—but strictly fictionalizes names and avoids direct identification.
 
 ### High
 
-The entry uses named entities, exact timing, exact quotes, unique technical sequence, or other details that strongly point to a specific public incident.
+Reserved for incidents so widely publicized and inextricably linked to a specific hyper-scale organization or well-known figure that maintaining a pseudonym is an absurd distraction.
 
-High-specificity entries should include citations or an internal source note.
+The entry uses named entities, exact timing, direct quotes, unique technical sequences, or other details that explicitly point to a specific public incident. Because this level bypasses standard fictionalization protocols, 
+
+High-specificity entries require approval (via quetzhelix-guild or community consensus) and must include direct citations or an internal source note.
+
+## Public Specificity Levels
 
 ## Ethical Rule
 
