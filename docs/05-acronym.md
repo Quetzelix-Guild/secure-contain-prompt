@@ -8,6 +8,7 @@
 | **DIG** | Digital Incident Guide    |
 | **DLC** | Dead-Letter Constraint    |
 | **ENV** | Environmental Hazard      |
+| **LLM** | Large Language Model     |
 | **LOD** | Load-Bearing Anomaly      |
 | **NAR** | Narrative Anomaly         |
 | **PXY** | Proxy Capture Anomaly     |
