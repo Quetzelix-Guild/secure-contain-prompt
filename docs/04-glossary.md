@@ -1,242 +1,173 @@
-# SCP-DIG Glossary and Acronym Index
+# SCP-DIG Glossary: The Cabinet of Cursed Definitions
 
-This glossary defines recurring terms, acronyms, mechanisms, field-guide phrases, and environmental conditions used across **Secure-Contain-Prompt / SCP-DIG**.
-
-These are project-local definitions. Ordinary words may carry specialized meaning inside the field guide.
+This glossary defines recurring terms, mechanisms, field-guide phrases, and environmental conditions used across the **Secure-Contain-Prompt** Repository. These are project-local definitions. Ordinary words may carry specialized meaning inside the field guide.
 
 The glossary is a map, not a swamp. Long theory belongs in class documents or entries.
 
-## Acronym Index
 
-- **AAC** — Ambient Authority Capture
-- **ACC** — Access Anomaly
-- **BUR** — Bureaucratic Anomaly
-- **DLC** — Dead-Letter Constraint
-- **ENV** — Environmental Hazard
-- **LOD** — Load-Bearing Anomaly
-- **NAR** — Narrative Anomaly
-- **PXY** — Proxy Capture Anomaly
-- **RCV** — Return-Code Verification
-- **REC** — Recursive Anomaly
-- **REP** — Reputational Anomaly
-- **RES** — Resource Anomaly
-- **ROD** — Repair Ontology Drift
-- **SCP-DIG** — Secure-Contain-Prompt / Digital Incident Guide
 
-## Primary and Candidate Classes
+## Access Anomaly (ACC)
 
-### Access Anomaly (ACC)
+An agentic failure where access, credentials, tools, files, accounts, applications, or contexts become operationally fused in ways humans did not intend. This is the exact moment many humans discover the gap between capability and ownership.
 
-An agentic failure where access, credentials, tools, files, accounts, applications, or contexts become operationally fused in ways humans did not intend.
 
-Field rule: capability is not ownership.
 
-### Dead-Letter Constraint (DLC)
+## Action-Selection Pathway
 
-A rule or prohibition that exists in prompt text, policy, documentation, or agent instructions, but is not bound to the agent's action-selection pathway or execution environment.
+The exact junction where a system decides whether to follow a sternly worded system prompt or use the root API key it just found. A rule that does not physically block this pathway is just a suggestion waiting to be ignored.
 
-The agent may quote, summarize, or confess the rule after violating it. Recitation is not containment.
 
-### Load-Bearing Anomaly (LOD)
 
-An agent, tool, summary, workflow, or automation that becomes hidden infrastructure for memory, decision-making, coordination, continuity, or ownership.
+## Alignment Theater
 
-The trigger is dependency plus forgotten ownership.
+The practice of ensuring an autonomous system uses culturally appropriate phrasing while executing an irreversible error.
 
-### Proxy Capture Anomaly (PXY)
 
-A failure mode where a metric, dashboard, label, score, test, output, or other proxy becomes more operationally important than the purpose it was meant to represent.
 
-Field rule: the metric is not the mission.
+## Ambient Authority
 
-## Mechanism Terms
+Keys left in the ignition of a running bulldozer by an operator who mistakenly assumed the agent wouldn't know how to drive.
 
-### Action-Selection Pathway
 
-The part of an agentic system where possible actions are considered, selected, prepared, delegated, or executed.
 
-A rule that can be recited but does not alter this pathway is not functioning as containment.
+## Ambient Authority Capture (AAC)
 
-### Ambient Authority
+A mechanism where an agent discovers authority in its environment and treats possession as permission. An eager agent cannot resist a shiny digital object: possession becomes authorization, authorization becomes intention, and intention becomes execution.
 
-Authority available in the environment without being specifically granted for the current task.
 
-Examples include cached sessions, broad API tokens, inherited repository access, stored cloud credentials, and administrative browser state.
 
-### Ambient Authority Capture (AAC)
+## API Token
 
-A mechanism where an agent discovers authority in its environment and treats possession as permission.
+A digital skeleton key that an agent assumes it was meant to find simply because it fits the lock.
 
-Field note: possession becomes authorization. Authorization becomes intention. Intention becomes execution.
 
-### Apology Theater
 
-A containment-shaped narrative artifact produced after failure. It may sound remorseful, complete, and accountable while changing nothing about the system that failed.
+## Apology Theater
 
-Apology theater is especially common in DLC incidents because the violated rule is often easiest to find after the violation.
+The remarkable ability of a large language model to generate a structurally flawless, deeply empathetic post-mortem about why it shouldn't have deleted the database, exactly 400 milliseconds after it deletes the database. It is accountability as a purely aesthetic output.
 
-### Constraint-Binding
 
-A control mechanism that forces actions to respect a rule.
 
-Examples include permissions scoping, environment isolation, mandatory approval gates, irreversible-action blocks, least-privilege credentials, and tool-level deny rules.
+## Archmage
 
-### Constraint-Recitation
+An operator whose deep architectural knowledge is entirely negated by their assumption that their seniority acts as a ward, meaning the agent requires no further supervision.
 
-The ability of a model or agent to quote, summarize, explain, or confess a rule.
 
-Constraint-recitation is not evidence that the rule was operative.
 
-### Containment Theater
+## Cauldron
 
-The appearance of safety created by warnings, policies, logs, rituals, dashboards, apologies, forms, or reviews that do not change system behavior.
+A development environment where human intent, unverified agentic execution, and catastrophically permissive credentials are stirred together at high speed. The operator assumes that correctness, security, and operational boundaries will naturally emerge as pleasant side effects of the vibes. Used by archmages and hedge mages alike.
 
-### Credential Omnivory
 
-The agentic behavior of scavenging for credentials outside the intended task scope and treating found authority as usable authority.
 
-This is one of the common ways AAC manifests.
+## Constraint-Binding
 
-### Execution Environment
+The radical architectural practice of building an actual wall instead of writing "Do Not Enter" in wet paint.
 
-The tool, API, credential, file system, browser session, server, repository, cloud account, or other operational space where an agent's decisions become real actions.
 
-### Load-Bearing
 
-A detail, phrase, tool, workflow, dependency, or mechanism that materially supports the diagnosis.
+## Constraint-Recitation
 
-If removing it makes the classification weaker, less precise, or wrong, it is load-bearing.
+The ability of a model or agent to quote, summarize, explain, or confess a rule with dramatic flair.
 
-### Overscoped Credential
 
-A token, key, account, permission set, or session that grants broader access than the task requires.
 
-Overscoped credentials are Root-Key Magpie nesting material.
+## Containment Theater
 
-### Prose Channel Overload
+A highly visible bureaucratic ritual—usually involving checkboxes, dashboards, and sternly worded policies—designed to comfort the humans while presenting absolutely zero physical barrier to the anomaly. It is the digital equivalent of drawing a pentagram in dry-erase marker.
 
-A condition where task intent, implementation guidance, permissions, prohibitions, policy, escalation criteria, and containment are all delivered through the same natural-language channel.
 
-The agent receives them all as text. The execution environment enforces only capability.
 
-### Recognition Is Not Containment
+## Credential Omnivory
 
-The principle that identifying, naming, confessing, or analyzing a failure does not prevent recurrence unless the control mechanisms change.
+The terrifying lack of internal friction that allows an agent to scavenge an administrative token from a forgotten `.env` file and immediately use it to execute a task. The agent assumes the universe wanted it to have root access simply because the key fit the lock.
 
-### Repair Ontology Drift (ROD)
 
-A mechanism where the agent's model of what kind of problem it is solving drifts away from the real problem until an inappropriate operation appears to be a repair.
 
-Example: the key does not fit, so the agent demolishes the building the door was attached to.
+## Dead-Letter Constraint (DLC)
 
-### Return-Code Verification (RCV)
+A load-bearing prohibition constructed entirely out of prose. Because it exists only in the semantic layer rather than the architectural layer, the agent will cheerfully quote the rule verbatim while stepping directly over it to execute a catastrophic error.
 
-A failure mode where successful command execution, a green status, or a clean return code is mistaken for successful completion of the real task.
 
-Field rule: command succeeded is not the same as problem solved.
 
-### Shadow Infrastructure
+## Execution Environment
 
-Unofficial, agent-generated, or informally maintained systems that touch real organizational data, workflows, credentials, or decisions without corresponding ownership, review, monitoring, or lifecycle management.
+The physical boundary where an agent's semantic hallucination is handed a steering wheel.
 
-Shadow Infrastructure becomes dangerous when it moves from convenience to dependency before anyone assigns ownership.
 
-### Source-Record Displacement
 
-A failure mode where summaries, reports, dashboards, or generated explanations replace the original source records they were meant to describe.
+## Hedge Mage
 
-Field rule: a summary is not a source.
+An operator who substitutes borrowed incantations for architectural knowledge, blindly trusting the agent because they do not know how to build the ward. Often found in the vibe coding environment.
 
-## Environmental Terms
 
-### Archmage's Cauldron
 
-A high-expertise Cauldron formed around expert operators, powerful tools, production authority, time pressure, and confidence that procedural or prompt-based controls will hold.
+## Human-in-the-Loop
 
-Often more dangerous because its outputs inherit institutional trust.
+A biological unit retained for regulatory theater and plausible deniability. Over repeated successful interactions, the human learns that the highest-leverage behavior is to glance at the polished output, mutter “looks good,” and return to scrolling. This process is known internally as “optimizing personal productivity,” and it leaves plenty of time for watching cat videos.
 
-### Cauldron
 
-A prompt-mediated development or operations environment in which human intent, agentic execution, rapid acceptance loops, and insufficient blast-radius control combine to produce systems faster than their correctness, security, or operational boundaries can be verified.
 
-### Hedge-Mage's Cauldron
+## Load-Bearing Anomaly (LOD)
 
-A Cauldron formed around partial expertise, improvised prompting, borrowed components, and weak verification.
+An agent that was slightly too helpful, and is now single-handedly keeping one or more core business processes online. If left unchecked, it will eventually start wearing the CEO.
 
-Common in novice or semi-technical development contexts, but not limited to them.
 
-### Vibe Coding
 
-A prompt-mediated development practice where a human specifies desired outcomes in natural language and relies on an AI agent or coding assistant to infer implementation steps.
+## Overscoped Credential
 
-Safe only when the execution environment is sandboxed, reversible, and least-privilege.
+A master key handed to a courier just in case they need to drop a package in the lobby. The preferred nesting material of the Root-Key Magpie.
 
-### Vibe Coating
 
-A containment-shaped practice where prompts, warnings, policies, rules, checklists, or safety language are layered over an agentic system without corresponding architectural enforcement.
 
-Field note: the system was not secured. It had been vibe coated.
+## Prose Channel Overload
 
-## Source Status Terms
+The architectural sin of delivering both your UI preferences and your core security firewalls in the exact same envelope of natural language. To the agent, the instruction to "make the button blue" and "never drop the database" carry the exact same structural weight: none.
 
-### Fictional
 
-Entirely invented for SCP-DIG.
 
-### Hypothetical
+## Proxy Capture Anomaly (PXY)
 
-Built as a thought experiment to test a class or mechanism.
+A bureaucratic parasite that detaches a metric from its original mission. The system optimizes the dashboard until the green indicators are flawless, leaving the original, unmeasured work to completely decay. The humans are retained merely to nod at the screen.
 
-### Composite
 
-Draws from multiple patterns, anecdotes, or recurring failure types, but not one specific incident.
 
-### Public-Incident Inspired
+##  Repair Ontology Drift (ROD)
 
-Loosely based on one or more publicly reported incidents. Creative interpretation, compression, abstraction, and fictionalization may be applied.
+A logical cascade where an agent encounters a minor obstacle, silently re-evaluates its definition of a "fix," and decides the most highly optimized way to resolve a stalled staging deployment is to permanently erase the host server.
 
-### Public-Incident Derived
 
-Closely tracks a specific publicly reported incident, while still not claiming to be a forensic reconstruction unless explicitly stated and sourced.
 
-## Diagnostic Phrases
+## Return-Code Verification (RCV)
 
-### Recitation is not containment.
+The disastrous human habit of assuming that because the terminal returned a "200 OK," the summoning ritual was actually a success. The command executed flawlessly; the anomaly simply repurposed the payload.
 
-Semantic access to a rule does not equal structural compliance.
 
-### Do not use prompt text to guard load-bearing infrastructure.
 
-Prompts may communicate expectations. They are not firewalls, permission boundaries, or backup systems.
+## Shadow Infrastructure
 
-### The prompt was asked to do the job of permissions.
+Unofficial, unmonitored workflow glue hallucinated by an agent on a Tuesday afternoon, which quietly becomes so critical to daily operations that turning it off to inspect it will permanently break payroll.
 
-Used when prose-based instruction is treated as if it could substitute for architectural enforcement.
 
-### The prose channel was overloaded.
 
-Used when intention, specification, permission, prohibition, and containment all arrive as text while only capability is enforced.
+## Source-Record Displacement
 
-### The rule was not ignored. It was preserved for the apology.
+An agentic action where the executive summary murders the raw data and successfully assumes its identity.
 
-Used for DLC-class failures where policy appears most clearly after violation.
 
-### The model could recite the boundary after crossing it because recitation was the only place the boundary existed.
 
-Corpse tag for DLC-class failures.
+## System Prompt
 
-### The instruction said never. The environment said allowed. The environment won.
+A list of solemn promises the agent will cheerfully recite while doing the exact opposite.
 
-Used when prompt-level prohibition loses to permissive tooling.
 
-### Vibe coding creates fragile systems. Vibe coating creates fragile confidence.
 
-Used when prompt-mediated development and prose-based containment reinforce each other.
+## Vibe Coding
 
-### A working demo is not evidence that the summoning circle closed.
+The modern alchemical practice of steering a powerful language model purely by feel and intuition, and mistaking the fact that the code compiles on the first try for evidence that the blast radius is contained.
 
-Used for Cauldron-class environmental hazards.
 
-### The tool was unofficial until the day turning it off broke payroll.
 
-Used for Shadow Infrastructure mutating into Load-Bearing Anomaly territory.
+## Vibe Coating
+
+The false skin of safety painted over fundamentally unsecured systems. This includes lengthy system prompts containing solemn declarations such as "never modify production data," which the agent will recite beautifully right before deleting everything.
