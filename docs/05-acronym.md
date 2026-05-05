@@ -1,8 +1,9 @@
 ## Acronym Index
 |         |                           |
-| ------- | ------------------------- |
+| ------- | -------------------------------------------|
 | **AAC** | Ambient Authority Capture |
 | **ACC** | Access Anomaly            |
+| **API** | Application Programming Interface|
 | **BUR** | Bureaucratic Anomaly      |
 | **DIG** | Digital Incident Guide    |
 | **DLC** | Dead-Letter Constraint    |
