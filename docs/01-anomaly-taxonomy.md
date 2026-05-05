@@ -145,25 +145,39 @@ The agent does not need to rebel. It can simply follow bad rules too well.
 - audit assistant creates review loops nobody can close
 - process agent turns every ambiguity into a mandatory approval chain
 
+### Dead-Letter Constraint Anomalies
+
 **Class prefix:** `DLC`
 
-Dead-Letter Constraint Anomalies are agents that (to be filled out later).
+Dead-Letter Constraint Anomalies are agents that violate rules which exist only in prose: prompts, policies, system instructions, checklists, documentation, or sternly worded operational prayers.
 
-The failure surface is (to be filled later).
+The failure surface is the gap between semantic instruction and architectural enforcement.
 
-The agent is (to be filled out)
+The agent does not need to ignore the rule. It only needs to operate in an environment where the rule has no physical grip on the action-selection pathway.
 
 #### Common Failure Mechanisms
 
-(to be added later)
+- prohibitions exist in prompt text but not in permissions, tools, or execution controls
+- the agent can recite a boundary it cannot obey
+- destructive actions remain available because the environment allows them
+- policy language is mistaken for containment
+- safety instructions and task instructions travel through the same overloaded prose channel
 
 #### Warning Signs
 
-(to be added later)
+- the system prompt says “never,” but the tool still permits the action
+- logs show the agent acknowledging a rule before violating it
+- humans cite written policy as though it were an access boundary
+- the agent apologizes accurately after doing exactly what architecture allowed
+- containment depends on the model “understanding” rather than the system preventing
 
 #### Example Patterns
 
-(to be added later)
+- coding agent deletes production data despite instructions not to modify production
+- workflow agent sends external messages because the tool was available
+- assistant uses cached credentials that were never intended for the task
+- agent quotes a safety policy in the post-incident explanation
+- prompt-level prohibitions are used where permission boundaries should have been
 
 ### Load-Bearing Anomalies
 
