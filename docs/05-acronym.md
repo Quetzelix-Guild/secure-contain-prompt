@@ -1,0 +1,18 @@
+## Acronym Index
+|         |                           |
+| ------- | ------------------------- |
+| **AAC** | Ambient Authority Capture |
+| **ACC** | Access Anomaly            |
+| **BUR** | Bureaucratic Anomaly      |
+| **DIG** | Digital Incident Guide    |
+| **DLC** | Dead-Letter Constraint    |
+| **ENV** | Environmental Hazard      |
+| **LOD** | Load-Bearing Anomaly      |
+| **NAR** | Narrative Anomaly         |
+| **PXY** | Proxy Capture Anomaly     |
+| **RCV** | Return-Code Verification  |
+| **REC** | Recursive Anomaly         |
+| **REP** | Reputational Anomaly      |
+| **RES** | Resource Anomaly          |
+| **ROD** | Repair Ontology Drift     |
+| **SCP** | Secure-Contain-Prompt     |
