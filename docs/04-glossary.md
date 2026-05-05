@@ -110,7 +110,7 @@ A biological unit retained for regulatory theater and plausible deniability. Ove
 
 ## Load-Bearing Anomaly (LOD)
 
-An agent that was slightly too helpful, and is now single-handedly keeping one or more core business processes online. If left unchecked, it will eventually start wearing the CEO.
+An agent that was slightly too helpful and is now preserving institutional memory, drafting executive recommendations, and allowing senior leadership to mistake recitation for judgment. The CEO remains visible for legal and ceremonial purposes. Several decisions, however, appear to have been made by something in the walls. If left unchecked, it will eventually start wearing the CEO.
 
 
 
