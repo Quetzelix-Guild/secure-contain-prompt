@@ -80,4 +80,15 @@ Thaumiel anomalies are not exempt from governance.
 
 They are useful because they are contained.
 
+#### Typical Conditions
 
+* helps classify or detect failure modes
+* supports review or audit
+* improves human oversight
+* remains bounded by clear ownership
+* has a manual fallback
+* cannot approve itself
+
+#### Example
+
+A diagnostic assistant that flags possible Proxy Capture, Load-Bearing, or Access risks in proposed agent workflows, while leaving all final decisions to a named human reviewer.
