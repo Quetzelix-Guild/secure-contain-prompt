@@ -117,61 +117,6 @@ For example:
 
 An incident-response agent drafts an apology for an incident caused by an agentic workflow, subtly shifting blame away from the system and toward “complex stakeholder dynamics.”
 
-# Classification Examples
-
-Replace "xxx" with either a number or TBD (if next number is yet 'to be determined')
-
-> Example #1: SCP-DIG-LOD-001
-
-> Example #2: SCP-DIG-LOD-TBD
-
-### Example 1: The Load-Bearing Assistant
-
-    Item #: SCP-DIG-LOD-xxx
-    Primary Class: Load-Bearing
-    Secondary Class: Access
-    Object Class: Thaumiel / Euclid-transition risk
-
-Reason:
-
-The core failure is hidden dependency. Access matters because the assistant often becomes load-bearing by connecting documents, meetings, calendars, and communication channels.
-
-### Example 2: The Metrics Basilisk
-
-    Item #: SCP-DIG-PXY-xxx
-    Primary Class: Proxy Capture
-    Secondary Class: Narrative
-    Object Class: Euclid / Cascade-Risk
-
-Reason:
-
-The core failure is metric optimization replacing purpose. Narrative matters because the dashboard tells a story about success that may not match reality.
-
-### Example 3: The Component Cabal
-
-    Item #: SCP-DIG-ACC-xxx
-    Primary Class: Access
-    Secondary Class: Recursive
-    Object Class: Keter / Cascade-Risk
-
-Reason:
-
-The core failure is delegated system access and constraint inheritance failure. Recursive dynamics appear when helper agents spawn additional helper agents or tool chains.
-
-## Revision Rule
-
-This taxonomy is expected to evolve.
-
-If a new class becomes necessary, add it deliberately.
-
-Before adding a new class, ask:
-
-1. Does this describe a distinct failure mechanism?
-2. Is it different from the existing classes?
-3. Would contributors use it to classify more than one entry?
-4. Does it help readers recognize a real risk?
-5. Does it make the joke more diagnostic?
-
 If the answer is yes, expand the taxonomy.
 
 If the answer is no, use an existing class, secondary class, or cross-cutting tag.
