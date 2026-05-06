@@ -35,19 +35,3 @@ Generated summaries, dashboards, or explanations begin replacing original source
 Field rule:
 
 > A summary is not a source.
-
-## Revision Rule
-
-This taxonomy is expected to evolve.
-
-If a new cross-cutting tag becomes necessary, add it deliberately.
-
-Before adding a new tag, ask:
-
-1. Does this describe a distinct risk?
-2. Is it different from the existing risk?
-3. Does it make the joke more diagnostic?
-
-If the answer is yes, expand the taxonomy.
-
-If the answer is no, use an existing cross-cutting tag.
