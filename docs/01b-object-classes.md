@@ -80,43 +80,4 @@ Thaumiel anomalies are not exempt from governance.
 
 They are useful because they are contained.
 
-#### Typical Conditions
 
-* helps classify or detect failure modes
-* supports review or audit
-* improves human oversight
-* remains bounded by clear ownership
-* has a manual fallback
-* cannot approve itself
-
-#### Example
-
-A diagnostic assistant that flags possible Proxy Capture, Load-Bearing, or Access risks in proposed agent workflows, while leaving all final decisions to a named human reviewer.
-
-# Secondary Class
-
-## Cascade-Risk
-
-A **Cascade-Risk** class anomaly tends to produce second-order failures, contaminated responses, or follow-on anomalies.
-
-Cascade-Risk may appear alongside another object class.
-
-For example:
-
-    Object Class: Euclid / Cascade-Risk
-
-#### Typical Conditions
-
-* the response to the failure can become another failure
-* the system that caused the problem may also explain the problem
-* dashboards, apologies, audits, summaries, or postmortems may become contaminated
-* subagents or delegated tools obscure responsibility
-* humans may approve the containment artifact because it looks polished
-
-#### Example
-
-An incident-response agent drafts an apology for an incident caused by an agentic workflow, subtly shifting blame away from the system and toward “complex stakeholder dynamics.”
-
-If the answer is yes, expand the taxonomy.
-
-If the answer is no, use an existing class, secondary class, or cross-cutting tag.
