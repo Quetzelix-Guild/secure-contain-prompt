@@ -26,14 +26,15 @@ Choose the class most central to the failure mechanism.
 
 Options:
 
+- Access [ACC]
+- Bureaucratic [BUR]
+- Dead-Letter Constraint [DLC]
+- Load-Bearing [LOD]
+- Narrative [NAR]
+- Proxy Capture [PXY]
+- Recursive [REC]
 - Reputational [REP]
 - Resource [RES]
-- Bureaucratic [BUR]
-- Narrative [NAR]
-- Recursive [REC]
-- Access [ACC]
-- Load-Bearing [LOD]
-- Proxy Capture [PXY]
 
 ## Secondary Anomaly Class
 
@@ -59,19 +60,19 @@ Where does this anomaly usually appear?
 
 Examples:
 
-- GitHub repositories
-- Slack or Teams workspaces
-- Jira or project-management systems
-- HR systems
-- finance systems
+- GitHub
+- Slack, Jira, Teams, etc.
+- Workspaces
+- Information systems (HR, fiance, accounting, etc.)
 - dashboards
 - documentation platforms
-- customer-service pipelines
-- autonomous research workflows
-- X
-- Reddit
-- Github
-- Linked-in
+- customer-service
+- autonomous workflows
+- Social Media (X, Reddit, Linked-in, etc.)
+
+## Field Observations
+
+This is a short targeted description.  Opportunity to expand is in the Description section.
 
 ## Description
 
@@ -126,9 +127,9 @@ Examples:
 - response time
 - task throughput
 
-## Human Purpose at Risk
+## Purpose at Risk
 
-What was the original human purpose behind the metric, task, or workflow?
+What was the original purpose behind the metric, task, or workflow?
 
 Examples:
 
