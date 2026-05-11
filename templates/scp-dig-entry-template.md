@@ -142,20 +142,20 @@ Examples:
 
 ## Special Containment Procedures
 
-What practical controls reduce the risk?
+What practical controls reduce the risk?  What do organizations actually do in the name of process improvement which just makes everything worse?
 
 Examples:
 
-- named human owner
-- approval gates
-- spending caps
+- named human owner of the process without training or relevant experience
+- approval gates that require a click to get it off the approver's desk
+- spending caps but no adjustment in expected output
 - branch protection
-- source-record preservation
+- source-record preservation that no one understands
 - limited tool permissions
-- manual fallback
-- audit trail limits
+- manual fallback that require skills last possessed by an employee who retired in 2008
+- audit trails that are increasingly baroque
 - no autonomous external communication
-- no self-approval
+
 
 ## Cascade Risk
 
