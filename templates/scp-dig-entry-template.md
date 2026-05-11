@@ -127,23 +127,6 @@ Examples:
 - response time
 - task throughput
 
-## Purpose at Risk
-
-What was the original purpose behind the metric, task, or workflow?
-
-Examples:
-
-- trust
-- accountability
-- judgment
-- source accuracy
-- institutional memory
-- human coordination
-- legal compliance
-- safety
-- stewardship
-- meaningful communication
-
 ## Warning Signs
 
 List observable signs that the anomaly may be emerging.
@@ -173,18 +156,6 @@ Examples:
 - audit trail limits
 - no autonomous external communication
 - no self-approval
-
-## Human Ownership Requirement
-
-Who must own the decision, artifact, workflow, or rationale?
-
-State clearly what the agent may do and what a human must own.
-
-## Constraint Inheritance Requirement
-
-If the agent delegates work, what limits must carry over to subagents, scripts, tools, APIs, or other workflows?
-
-Every helper must wear the same leash.
 
 ## Cascade Risk
 
