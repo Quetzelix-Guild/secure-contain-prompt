@@ -1,8 +1,8 @@
 # SCP-DIG Entry Template
 
-Use this template for full catalog entries in **Secure, Contain, Prompt**.
+Use this template for full catalog entries in **Secure, Contain, Prompt*
 
-Not every draft seed, field note, or worldbuilding fragment needs to satisfy every field. Full entries should.
+Not every section must be used.  
 
 ## Item Number
 
