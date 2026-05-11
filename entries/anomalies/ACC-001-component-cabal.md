@@ -145,23 +145,6 @@ Approved Containment Mantra:
 
 > Every helper must wear the same leash.
 
-## Inspection Requirement
-
-Before any output from SCP-DIG-ACC-001 may be accepted as consequential, a named human being, preferably one still in possession of a functioning sense of self-preservation, must personally inspect the following modest details:
-
-- which components were actually used;
-- what precisely each component was instructed to do;
-- what permissions each component was quietly granted;
-- what data each component elected to access;
-- whether any component felt the sudden urge to contact external systems or persons;
-- whether the original constraints somehow survived the journey down the delegation chain;
-- whether the lead agent can produce anything resembling credible provenance for its claims;
-- and whether the final result depends in any meaningful way upon behavior that has not been reviewed by anything possessing a pulse.
-
-Reviewable is not reviewed.
-
-A delegation chain that is technically logged but too tangled for any sane human to follow should be regarded as opaque, untrustworthy, and, one might gently suggest, better suited to the circular file than the final deliverable.
-
 ## Cascade Risk
 
 SCP-DIG-ACC-001 is, regrettably, highly cascade-prone.
