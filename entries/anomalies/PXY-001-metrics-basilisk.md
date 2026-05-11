@@ -60,7 +60,6 @@ The following procedures remain after every easier option has already been autom
 - Dashboard outputs must be compared quarterly against direct input from the people whose work is measured. It seems that person's performance review is now routed through the dashboard.
 - Any case where indicators improve while the people doing the work report deterioration must be treated as containment failure. Improvement metrics have been implement to measure containment effectiveness.
 - The original purpose must be documented in plain language outside the metric system.  See addendum below.
--
 
 Addendum: 
 
