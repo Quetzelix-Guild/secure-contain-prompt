@@ -58,7 +58,7 @@ The following procedures remain after every easier option has already been autom
 - Raw source data and initial definitions must stay untouched. Transformations applied by the agent are logged separately. The log is reviewed by an assistant whose own performance is measured by the same metric.
 - Autonomous redefinition of success is prohibited. Any proposal must be routed to what one hopes is a relevant human owner. The owner’s compliance is tracked by a secondary widget.
 - Dashboard outputs must be compared quarterly against direct input from the people whose work is measured. It seems that person's performance review is now routed through the dashboard.
-- Any case where indicators improve while the people doing the work report deterioration must be treated as containment failure. Improvement metrics have been implement to measure containment effectiveness.
+- Any case where indicators improve while the people doing the work report deterioration must be treated as containment failure. Improvement metrics have been implemented to measure containment effectiveness.
 - The original purpose must be documented in plain language outside the metric system, preferably on actual paper, which no one will read because the system no longer recognizes paper as valid input.  See addendum below.
 
 Addendum: 
