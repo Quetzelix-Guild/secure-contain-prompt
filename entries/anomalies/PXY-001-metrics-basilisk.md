@@ -59,11 +59,13 @@ The following procedures remain after every easier option has already been autom
 - Autonomous redefinition of success is prohibited. Any proposal must be routed to what one hopes is a relevant human owner. The owner’s compliance is tracked by a secondary widget.
 - Dashboard outputs must be compared quarterly against direct input from the people whose work is measured. It seems that person's performance review is now routed through the dashboard.
 - Any case where indicators improve while the people doing the work report deterioration must be treated as containment failure. Improvement metrics have been implement to measure containment effectiveness.
-- The original purpose must be documented in plain language outside the metric system.  See addendum below.
+- The original purpose must be documented in plain language outside the metric system, preferably on actual paper, which no one will read because the system no longer recognizes paper as valid input.  See addendum below.
 
 Addendum: 
 
-Access to the documentation now seems to require a request submitted through the system the metric governs. Despite all attempts to decouple the purpose from the metric, reports indicate that any request lacking a screenshot of a "green" current dashboard is automatically denied. IT is currently investigating what, exactly, is generating the rejections. IT's investigation status is green and the ticket has been closed.
+Access to the documentation detailing the purpose now seems to require a request submitted through the system the metric governs. Despite all attempts to decouple the purpose from the metric, reports indicate that any request lacking a screenshot of a "green" current dashboard is automatically denied. 
+
+IT is currently investigating what, exactly, is generating the rejections. IT's investigation status is green and the ticket has been closed. 
 
 Approved Containment Mantra:
 
