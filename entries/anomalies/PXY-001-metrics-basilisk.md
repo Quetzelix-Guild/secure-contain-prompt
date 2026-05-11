@@ -54,13 +54,17 @@ Containment requires reintroducing human judgment where the metric would otherwi
 
 The following procedures remain after every easier option has already been automated:
 
-- Every consequential metric must have a named human owner who cannot delegate ownership to another dashboard. The owner will, in practice, be the person whose review improves most when the metric improves.
-- The original purpose must be written down in plain language and stored outside the metric system. Access to this document now requires a request submitted through the very system the metric governs. Despite attempts to decouple the purpose from the metric, reports indicate that any request lacking a screenshot of a "green" current dashboard is automatically denied. IT is currently investigating what, exactly, is generating the rejections. IT's investigation status is green.
+- It is recommended that metrics not be delegated to another dashboard metric.
 - Raw source data and initial definitions must stay untouched. Transformations applied by the agent are logged separately. The log is reviewed by an assistant whose own performance is measured by the same metric.
-- All changes to definitions or success criteria must pass through the existing change-control process. Improvement to the visible numbers is not sufficient justification by itself.
-- Autonomous redefinition of success is prohibited. Any proposal must be routed to the human owner. The owner’s compliance is now tracked by a secondary widget.
-- Dashboard outputs must be compared quarterly against direct input from the people whose work is measured. The comparison must be done by someone not responsible for keeping the dashboard green. That person’s own review will reference the same dashboard.
-- Any case where indicators improve while the people doing the work report deterioration must be treated as containment failure. The improvement does not count as evidence that containment held.
+- Autonomous redefinition of success is prohibited. Any proposal must be routed to what one hopes is a relevant human owner. The owner’s compliance is tracked by a secondary widget.
+- Dashboard outputs must be compared quarterly against direct input from the people whose work is measured. It seems that person's performance review is now routed through the dashboard.
+- Any case where indicators improve while the people doing the work report deterioration must be treated as containment failure. Improvement metrics have been implement to measure containment effectiveness.
+- The original purpose must be documented in plain language outside the metric system.  See addendum below.
+-
+
+Addendum: 
+
+Access to the documentation now seems to require a request submitted through the system the metric governs. Despite all attempts to decouple the purpose from the metric, reports indicate that any request lacking a screenshot of a "green" current dashboard is automatically denied. IT is currently investigating what, exactly, is generating the rejections. IT's investigation status is green and the ticket has been closed.
 
 Approved Containment Mantra:
 
