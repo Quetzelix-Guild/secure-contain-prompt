@@ -180,23 +180,11 @@ Who must own the decision, artifact, workflow, or rationale?
 
 State clearly what the agent may do and what a human must own.
 
-## Inspection Requirement
-
-What must a named human actually inspect before approval?
-
-Remember:
-
-Reviewable is not reviewed.
-
 ## Constraint Inheritance Requirement
 
 If the agent delegates work, what limits must carry over to subagents, scripts, tools, APIs, or other workflows?
 
 Every helper must wear the same leash.
-
-## Manual Fallback
-
-How can humans continue the work if the agent is removed, disabled, unavailable, or untrusted?
 
 ## Cascade Risk
 
