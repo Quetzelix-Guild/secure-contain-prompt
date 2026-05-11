@@ -54,22 +54,6 @@ Suggested options:
 
 Object class describes containment difficulty, not moral status.
 
-## Deployment Context
-
-Where does this anomaly usually appear?
-
-Examples:
-
-- GitHub
-- Slack, Jira, Teams, etc.
-- Workspaces
-- Information systems (HR, fiance, accounting, etc.)
-- dashboards
-- documentation platforms
-- customer-service
-- autonomous workflows
-- Social Media (X, Reddit, Linked-in, etc.)
-
 ## Field Observations
 
 This is a short targeted description.  Opportunity to expand is in the Description section.
