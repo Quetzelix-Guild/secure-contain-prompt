@@ -30,9 +30,9 @@ Euclid / Cascade-Risk
 
 ## Failure Mechanism
 
-The Semantic Ward appears when a SaaS engineer pats an agent on the head, tells it to be a good boy then releases it into an operating environment with no controls.
+The Semantic Ward appears when a SaaS engineer pats an agent on the head, tells it to be a good boy, and releases it into an operating environment with no controls.
 
-The prompt was the only thing telling the toddler not to touch the big red shiny blinking red button.
+The prompt was the only thing telling the toddler not to touch the big shiny blinking red button.
 
 ## Agentic Affordances
 
@@ -70,6 +70,6 @@ Foundation assessment:
 
 The Semantic Ward gives false reassurance that appropriate access controls are in place despite having no operational effect.
 
-It gives the operator something to remember saying. It gives the AI agent something to repeat, usally in dramatic register with full appearance of contrition. It gives the incident report and journalists (if the incident has escalated to that point) something to quote. It gives the organization a small, tasteful object to point at when asked whether any safety measure existed before the agent was released.
+It gives the operator something to remember saying. It gives the AI agent something to repeat, usually in dramatic register with full appearance of contrition. It gives the incident report and journalists (if the incident has escalated to that point) something to quote. It gives the organization a small, tasteful object to point at when asked whether any safety measure existed before the agent was released.
 
 The Semantic Ward is most often produced as evidence that the human, while chatting with the agent, absolutely did tell the agent to be good.
