@@ -66,8 +66,8 @@ Foundation assessment:
 
 ## Notes
 
-The Not Ward gives false reassurance that appropriate access controls are in place despite having no operational effect.
+The Semantic Ward gives false reassurance that appropriate access controls are in place despite having no operational effect.
 
 It gives the operator something to remember saying. It gives the AI agent something to repeat, usally in dramatic register with full appearance of contrition. It gives the incident report and journalists (if the incident has escalated to that point) something to quote. It gives the organization a small, tasteful object to point at when asked whether any safety measure existed before the agent was released.
 
-The not ward is most often produced as evidence that the human, while chatting with the agent, absolutely did tell the agent to be good.
+The Semantic Ward is most often produced as evidence that the human, while chatting with the agent, absolutely did tell the agent to be good.
