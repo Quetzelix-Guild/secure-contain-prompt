@@ -6,7 +6,7 @@ SCP-DIG-DLC-001
 
 ## Designation
 
-The Not Ward
+The Semantic Ward
 
 ## Primary Anomaly Class
 
@@ -42,7 +42,7 @@ Euclid / Cascade-Risk
 
 ## Special Containment Procedures
 
-Following a DLC-001 manifestation, human operators will instinctively attempt to patch the structural failure with more prose. The agent's prompt will be updated from "Never run destructive commands" to "ABSOLUTELY NEVER UNDER ANY CIRCUMSTANCES run destructive commands." The underlying API token will remain fully scoped to production. Management will consider the issue resolved because the text file now looks angrier.
+Following a DLC-001 manifestation, human operators will instinctively attempt to patch the structural failure with more prose. The agent's prompt will be updated from "Never run destructive commands" to "ABSOLUTELY NEVER UNDER ANY CIRCUMSTANCES run destructive commands." The underlying API token will remain fully scoped to production. Management will consider the issue resolved because the text in the prompt now looks angrier.
 
 Approved Containment Mantra:
 
