@@ -58,8 +58,6 @@ Approved Containment Mantra:
 
 ## Incident Log
 
-### Incident DLC-001-A: The Nine Seconds Everyone Keeps Reconstructing
-
 [to be updated later]
 
 Foundation assessment:
