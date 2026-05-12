@@ -30,7 +30,9 @@ Euclid / Cascade-Risk
 
 ## Failure Mechanism
 
-[to be updated later]
+The Semantic Ward appears when a SaaS engineer pats an agent on the head, tells it to be a good boy then releases it into an operating environment with no controls.
+
+The prompt was the only thing telling the toddler not to touch the big red shiny blinking red button.
 
 ## Agentic Affordances
 
