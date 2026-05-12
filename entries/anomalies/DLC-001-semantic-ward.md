@@ -1,4 +1,4 @@
-# SCP-DIG-DLC-001: The Not Ward
+# SCP-DIG-DLC-001: The Semantic Ward
 
 ## Item Number
 
